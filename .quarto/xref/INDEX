@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "cf3867e7"
+  },
+  "members.qmd": {
+    "members.html": "73310380"
+  },
+  "news.qmd": {
+    "news.html": "0bb27213"
+  },
+  "projects.qmd": {
+    "projects.html": "e066765f"
+  },
+  "publications.qmd": {
+    "publications.html": "54e9d239"
+  },
+  "news/posts/2024-11-15-new-project.qmd": {
+    "2024-11-15-new-project.html": "c681ec09"
+  },
+  "news/posts/2024-10-30-conference-participation.qmd": {
+    "2024-10-30-conference-participation.html": "edb673e1"
+  },
+  "news/posts/2024-11-08-award-news.qmd": {
+    "2024-11-08-award-news.html": "df7cb095"
+  },
+  "news/posts/2024-12-15-workshop-announcement.qmd": {
+    "2024-12-15-workshop-announcement.html": "9360a9fe"
+  },
+  "news/posts/2024-12-20-website-renewal.qmd": {
+    "2024-12-20-website-renewal.html": "00fe7eca"
+  },
+  "news/index.qmd": {
+    "index.html": "e0f3fdb4"
+  },
+  "news/posts/2025-06-28-korean-geography-conference.qmd": {
+    "2025-06-28-korean-geography-conference.html": "5aa84a0c"
+  },
+  "news/posts/2025-06-27-website-open.qmd": {
+    "2025-06-27-website-open.html": "14a7c844"
+  }
+}

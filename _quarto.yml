@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "SNU GIS Lab"
+  description: "GIS Lab of the Department of Geography Education, Seoul National University"
+  favicon: favicon.ico
+  
+  navbar:
+    background: "#ffffff"
+    foreground: "#0F0F70"
+    title: ""
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Members"
+        file: members.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Publications & Presentations"
+        file: publications.qmd
+      - text: "News"
+        file: news/index.qmd
+
+  page-footer:
+    left: "© 2025 GIS Lab, Department of Geography Education, Seoul National University"
+    right: 
+      - icon: github
+        href: https://github.com/snu-gislab
+      - icon: envelope
+        href: mailto:si_lee@snu.ac.kr
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+
+
+

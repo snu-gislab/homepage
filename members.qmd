@@ -1,0 +1,99 @@
+---
+title: "Members"
+---
+
+## Professor
+
+:::: {.member-profile}
+![](images/professor.png){.member-photo style="width: 330px; height: 440px; display: block; margin: 0 auto 2em auto;"}
+
+### Sang-Il Lee
+**Professor**
+
+- **Email**: [si_lee@snu.ac.kr](mailto:si_lee@snu.ac.kr)
+- **Office**: [Room 319, Building 10, College of Education, Seoul National University](https://www.google.com/maps?q=37.460373,126.955093)
+- **Research Interests**:
+    - Spatial Data Science  
+    - Spatial Data Analysis and Spatial Statistics  
+    - Cartography and GeoVisualization  
+    - Geographic Information Systems (GIS)  
+    - Population Geography and Spatial Demography  
+    - Geography of Education
+- **Education**:
+    - Ph.D. in Geography, The Ohio State University  
+    - M.A. in Geography Education, Seoul National University  
+    - B.A. in Geography Education, Seoul National University
+::::
+
+## Graduate Students
+
+::: {.grid}
+
+::: {.g-col-12}
+:::: {.member-profile}
+![](images/Nam.jpeg){.member-photo style="float: left; margin-right: 2.5em; width: 120px; height: 160px;"}
+
+### Hyekyeong Nam
+**M.A. Student**
+
+- **Email**: [nhk675@snu.ac.kr](mailto:nhk675@snu.ac.kr)
+- **Research Interests**: Spatial Data Science
+- [**Personal Website**](https://geoedu.snu.ac.kr/) 
+::::
+:::
+
+::: {.g-col-12}
+:::: {.member-profile}
+![](images/Kim.png){.member-photo style="float: left; margin-right: 2.5em; width: 120px; height: 160px;"}
+
+### Woohyung Kim
+**M.A. Student**
+
+- **Email**: [whk3423@snu.ac.kr](mailto:whk3423@snu.ac.kr)
+- **Research Interests**: Spatial Data Science, GeoAI
+- [**Personal Website**](https://geowhk.github.io/)
+::::
+:::
+
+::: {.g-col-12}
+:::: {.member-profile}
+![](images/Jeong.jpeg){.member-photo style="float: left; margin-right: 2.5em; width: 120px; height: 160px;"}
+
+### Minseop Jeong
+**M.A. Student**
+
+- **Email**: [jms7061@snu.ac.kr](mailto:jms7061@snu.ac.kr)
+- **Research Interests**: Population Geography
+- [**Personal Website**](https://geoedu.snu.ac.kr/)
+::::
+:::
+
+::: {.g-col-12}
+:::: {.member-profile}
+![](images/Park.jpeg){.member-photo style="float: left; margin-right: 2.5em; width: 120px; height: 160px;"}
+
+### Seowoo Park
+**M.A. Student**
+
+- **Email**: [seowoo0805@snu.ac.kr](mailto:seowoo0805@snu.ac.kr)
+- **Research Interests**: 
+- [**Personal Website**](https://geoedu.snu.ac.kr/)
+::::
+:::
+
+:::
+
+## Alumni
+
+### Recent Graduates
+
+- **Hyemin Jeon (M.A., 2025)**
+- **Sechang Kim (M.A., 2023)**: Ph.D. Student at University of Washington
+
+---
+
+## Join Our Lab
+
+If you are interested in joining our lab, please feel free to contact us!
+
+**Contact**: [si_lee@snu.ac.kr](mailto:si_lee@snu.ac.kr)
