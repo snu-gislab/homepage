@@ -15,8 +15,6 @@ title-block-banner: true
 
 ::: {.content-summary}
 **Check out the latest news and major updates from our lab!**
-
-Here we provide blog-style updates about our research achievements, conference presentations, awards, new project launches, member news, and other various updates.
 :::
 
 ---

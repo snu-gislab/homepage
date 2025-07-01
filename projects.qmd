@@ -8,9 +8,10 @@ subtitle: "Research Projects & Collaborations"
 ### Government-Funded Research
 
 #### Joint Project with National Geographic Information Institute(NGII)
-**Duration**: 2025  
+**Duration**: 2025(ongoing)  
 **Principal Investigator**: Professor Sang-Il Lee  
 **Title**: "Development of Interactive National Atlas of Korea"  
+
 **Project Description**: This project aims to produce an interactive version of the National Atlas of Korea to be exhibited at ICC 2025 in collaboration with the National Geographic Information Institute (NGII). Our lab is responsible for selecting content to be included in the atlas, acquiring and preprocessing the relevant data, and making key decisions regarding the implementation of individual map components.
 
 

@@ -30,4 +30,5 @@ __pycache__/
 *~
 
 # Logs
-*.log 
+*.log
+/.quarto/
