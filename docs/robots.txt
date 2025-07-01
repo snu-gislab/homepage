@@ -1,1 +1,1 @@
-Sitemap: https://snu-gislab.github.io/homepage/sitemap.xml
+Sitemap: https://snu-gislab.github.io/sitemap.xml
