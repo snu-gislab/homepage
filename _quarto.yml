@@ -1,10 +1,12 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "SNU GIS Lab"
   description: "GIS Lab of the Department of Geography Education, Seoul National University"
   favicon: favicon.ico
+  site-url: "https://snu-gislab.github.io/homepage/"
   
   navbar:
     background: "#ffffff"

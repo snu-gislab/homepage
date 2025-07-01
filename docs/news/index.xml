@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>SNU GIS Lab</title>
+<link>https://snu-gislab.github.io/homepage/news/</link>
+<atom:link href="https://snu-gislab.github.io/homepage/news/index.xml" rel="self" type="application/rss+xml"/>
+<description>GIS Lab of the Department of Geography Education, Seoul National University</description>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Fri, 27 Jun 2025 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>The 2025 Korean Geography Conference</title>
+  <dc:creator>GIS Lab</dc:creator>
+  <link>https://snu-gislab.github.io/homepage/news/posts/2025-06-28-korean-geography-conference.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://snu-gislab.github.io/homepage/news/posts/images/Hyemin_KGC2.png" class="img-fluid"></p>
+<p>At the 2025 Korean Geography Conference held on June 27–28, our lab’s master’s degree candidate, Hyemin, presented her thesis titled “Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering.” Congratulations to her, and we wish her all the best after graduation!</p>
+
+
+
+ ]]></description>
+  <category>Conference</category>
+  <guid>https://snu-gislab.github.io/homepage/news/posts/2025-06-28-korean-geography-conference.html</guid>
+  <pubDate>Fri, 27 Jun 2025 15:00:00 GMT</pubDate>
+  <media:content url="https://snu-gislab.github.io/homepage/news/posts/images/Hyemin_KGC1.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>GIS Lab Website Opened!</title>
+  <dc:creator>GIS Lab</dc:creator>
+  <link>https://snu-gislab.github.io/homepage/news/posts/2025-06-27-website-open.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="a-new-beginning" class="level2">
+<h2 class="anchored" data-anchor-id="a-new-beginning">🎉 A New Beginning</h2>
+<p>Hello! The SNU GIS Lab website has been newly launched.</p>
+<p>The website was built with <a href="https://quarto.org/">Quarto</a> by Woohyung Kim, a master’s student in the lab.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Website</category>
+  <category>Announcements</category>
+  <guid>https://snu-gislab.github.io/homepage/news/posts/2025-06-27-website-open.html</guid>
+  <pubDate>Thu, 26 Jun 2025 15:00:00 GMT</pubDate>
+  <media:content url="https://snu-gislab.github.io/homepage/news/posts/images/main_header.png" medium="image" type="image/png" height="21" width="144"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News & Updates",
+    "section": "",
+    "text": "Check out the latest news and major updates from our lab!"
+  },
+  {
+    "objectID": "news/index.html#latest-news-posts",
+    "href": "news/index.html#latest-news-posts",
+    "title": "News & Updates",
+    "section": "📰 Latest News Posts",
+    "text": "📰 Latest News Posts"
+  },
+  {
+    "objectID": "news/posts/2025-06-28-korean-geography-conference.html",
+    "href": "news/posts/2025-06-28-korean-geography-conference.html",
+    "title": "The 2025 Korean Geography Conference",
+    "section": "",
+    "text": "At the 2025 Korean Geography Conference held on June 27–28, our lab’s master’s degree candidate, Hyemin, presented her thesis titled “Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering.” Congratulations to her, and we wish her all the best after graduation!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SNU GIS Lab",
+    "section": "",
+    "text": "Geographic Information Systems Laboratory\nDepartment of Geography Education\nSeoul National University"
+  },
+  {
+    "objectID": "index.html#about-our-lab",
+    "href": "index.html#about-our-lab",
+    "title": "SNU GIS Lab",
+    "section": "About Our Lab",
+    "text": "About Our Lab\nContents"
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "SNU GIS Lab",
+    "section": "Contact Information",
+    "text": "Contact Information\nAddress: 1 Gwanak-ro, Gwanak-gu, Seoul, Department of Geography Education, College of Education, Seoul National University\nPhone: +82-2-880-2557\n\nThis website is powered by Quarto and hosted on GitHub Pages."
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "members.html#professor",
+    "href": "members.html#professor",
+    "title": "Members",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "members.html#graduate-students",
+    "href": "members.html#graduate-students",
+    "title": "Members",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nHyekyeong Nam\nM.A. Student\n\nEmail: nhk675@snu.ac.kr\nResearch Interests: Spatial Data Science\nPersonal Website\n\n\n\n\n\n\n\n\nWoohyung Kim\nM.A. Student\n\nEmail: whk3423@snu.ac.kr\nResearch Interests: Spatial Data Science, GeoAI\nPersonal Website\n\n\n\n\n\n\n\n\nMinseop Jeong\nM.A. Student\n\nEmail: jms7061@snu.ac.kr\nResearch Interests: Population Geography\nPersonal Website\n\n\n\n\n\n\n\n\nSeowoo Park\nM.A. Student\n\nEmail: seowoo0805@snu.ac.kr\nResearch Interests:\nPersonal Website"
+  },
+  {
+    "objectID": "members.html#alumni",
+    "href": "members.html#alumni",
+    "title": "Members",
+    "section": "Alumni",
+    "text": "Alumni\n\nRecent Graduates\n\nHyemin Jeon (M.A., 2025)\nSechang Kim (M.A., 2023): Ph.D. Student at University of Washington"
+  },
+  {
+    "objectID": "members.html#join-our-lab",
+    "href": "members.html#join-our-lab",
+    "title": "Members",
+    "section": "Join Our Lab",
+    "text": "Join Our Lab\nIf you are interested in joining our lab, please feel free to contact us!\nContact: si_lee@snu.ac.kr"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Duration: 2025(ongoing)\nPrincipal Investigator: Professor Sang-Il Lee\nTitle: “Development of Interactive National Atlas of Korea”\nProject Description: This project aims to produce an interactive version of the National Atlas of Korea to be exhibited at ICC 2025 in collaboration with the National Geographic Information Institute (NGII). Our lab is responsible for selecting content to be included in the atlas, acquiring and preprocessing the relevant data, and making key decisions regarding the implementation of individual map components."
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Duration: 2025(ongoing)\nPrincipal Investigator: Professor Sang-Il Lee\nTitle: “Development of Interactive National Atlas of Korea”\nProject Description: This project aims to produce an interactive version of the National Atlas of Korea to be exhibited at ICC 2025 in collaboration with the National Geographic Information Institute (NGII). Our lab is responsible for selecting content to be included in the atlas, acquiring and preprocessing the relevant data, and making key decisions regarding the implementation of individual map components."
+  },
+  {
+    "objectID": "projects.html#completed-projects",
+    "href": "projects.html#completed-projects",
+    "title": "Projects",
+    "section": "Completed Projects",
+    "text": "Completed Projects\n\nProjects Completed in 2025\n\nJoint Project with National Geographic Information Institute(NGII)\nTitle: “Development of Interactive Contents for Comprehensive Edition of National Atlas of Korea”(Pilot Project)\nDuration: October 2024 - January 2025\nKey Outcomes: 11 Interactive Maps and Plots\nNational Atlas of Korea(In English) (To view the interactive content, please switch the site language to Korean)\n\n\nAIEDAP(AI EDucation Alliace & Policy lab) Project for Social Studies Eduation\nTitle: “Development of a Programming-based Instructional Program to Enhance Digital Competency of Pre-service Social Studies Teachers”\nDuration: March 2024 - March 2025\nKey Outcomes: Lee, S.-I., Go, B., Koh, J., Kim, S., Kim, W., & Lim, C. (2025). Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers. Journal of Educational Technology, 41(1), 79–109."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Kim, S. and Lee, S.-I. (2025), “An extension of migration effectiveness indices: Accounting for the impact of migration on population structure,” Population, Space and Place, 31(5):e70049. \n\n\n\n\n\nLee, S.-I., Go, B., Koh, J., Kim, S., Kim, W., & Lim, C. (2025). Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers [In Korean]. Journal of Educational Technology, 41(1), 79–109. \nLee, S.-I., Lee, S., & Kim, S. (2024). A multi-scale analysis of age-specific migration unidirectionality in South Korea [In Korean]. Journal of the Korean Geographical Society, 59(5), 656–672. \nLee, S.-I., & Cho, D. (2024). The variety and complementarity of migration data in South Korea: A comparison of resident register and register-based census data [In Korean]. Journal of the Korean Geographical Society, 59(4), 487–504."
+  },
+  {
+    "objectID": "publications.html#recent-publications-2024---2025",
+    "href": "publications.html#recent-publications-2024---2025",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Kim, S. and Lee, S.-I. (2025), “An extension of migration effectiveness indices: Accounting for the impact of migration on population structure,” Population, Space and Place, 31(5):e70049. \n\n\n\n\n\nLee, S.-I., Go, B., Koh, J., Kim, S., Kim, W., & Lim, C. (2025). Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers [In Korean]. Journal of Educational Technology, 41(1), 79–109. \nLee, S.-I., Lee, S., & Kim, S. (2024). A multi-scale analysis of age-specific migration unidirectionality in South Korea [In Korean]. Journal of the Korean Geographical Society, 59(5), 656–672. \nLee, S.-I., & Cho, D. (2024). The variety and complementarity of migration data in South Korea: A comparison of resident register and register-based census data [In Korean]. Journal of the Korean Geographical Society, 59(4), 487–504."
+  },
+  {
+    "objectID": "publications.html#conference-presentations-2024-2025",
+    "href": "publications.html#conference-presentations-2024-2025",
+    "title": "Publications & Presentations",
+    "section": "Conference Presentations (2024-2025)",
+    "text": "Conference Presentations (2024-2025)\n\nInternational Conferences\n\nAAG Annual Meeting 2025\nLocation: Detroit, Michigan, USA\nDate: March 24-28, 2025\nPresentations:\n\nLee, S. “Presentation Name”\n\n\n\nAAG Annual Meeting 2024\nLocation: Honolulu, Hawaii, USA\nDate: April 16-20, 2024\nPresentations:\n\nLee, S. “Presentation Name”\n\nKim, S. “Presentation Name”\n\n\n\n\nDomestic Conferences\n\nThe 2025 Korean Geography Conference\nLocation: National Institute for Unification Education\nDate: June 27-28, 2025\nPresentations:\n\nJeon, H. “Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering”\n\n\n\n2025 Spring Conference of the Korean Cartographic Association\nLocation: University of Seoul\nDate: May 31, 2025\nPresentations:\n\nLee, S. “The Life and Scholarship of the Late Professor Kamyoung Kim: Cartography and Population Geography”"
+  },
+  {
+    "objectID": "news/posts/2025-06-27-website-open.html",
+    "href": "news/posts/2025-06-27-website-open.html",
+    "title": "GIS Lab Website Opened!",
+    "section": "",
+    "text": "Hello! The SNU GIS Lab website has been newly launched.\nThe website was built with Quarto by Woohyung Kim, a master’s student in the lab."
+  },
+  {
+    "objectID": "news/posts/2025-06-27-website-open.html#a-new-beginning",
+    "href": "news/posts/2025-06-27-website-open.html#a-new-beginning",
+    "title": "GIS Lab Website Opened!",
+    "section": "",
+    "text": "Hello! The SNU GIS Lab website has been newly launched.\nThe website was built with Quarto by Woohyung Kim, a master’s student in the lab."
+  }
+]
