@@ -76,7 +76,7 @@ title: "Members"
 **M.A. Student**
 
 - **Email**: [seowoo0805@snu.ac.kr](mailto:seowoo0805@snu.ac.kr)
-- **Research Interests**: 
+- **Research Interests**: Spatial Data Science, Spatial Statistics
 - [**Personal Website**](https://geoedu.snu.ac.kr/)
 ::::
 :::

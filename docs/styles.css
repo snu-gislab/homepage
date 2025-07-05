@@ -1,1 +1,12 @@
- 
+ /* Fix unordered lists inside grid columns */
+.member-profile ul,
+.member-profile ol {
+  margin-left: 1.2em;     /* 들여쓰기 */
+  padding-left: 1.2em;    /* 마커 공간 확보 */
+  list-style: disc;       /* 기본 ● 마커 표시 */
+}
+
+.member-profile ul li,
+.member-profile ol li {
+  margin-bottom: 0.3em;
+}
