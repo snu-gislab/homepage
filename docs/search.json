@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "News",
     "section": "",
-    "text": "Welcome To Spatial Data Science Lab\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n{{#listing}}\n\n\n&lt;a href=\"{{url}}\"&gt;{{title}}&lt;/a&gt;\n\n\n{{date}}\n\n\n{{/listing}}\nNo matching items"
+    "text": "Welcome To  Spatial Data Science Lab\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews & Updates\n\n\nLab News & Latest Updates\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe 2025 Korean Geography Conference\n\n\nHyemin presented her Master’s Thesis at Conference!\n\n\n\n\n\n\n\n\nJun 28, 2025\n\n\nGIS Lab\n\n\n\n\n\n\n\n\n\n\n\n\nGIS Lab Website Opened!\n\n\nNew Quarto-based Homepage Launch\n\n\n\n\n\n\n\n\nJun 27, 2025\n\n\nGIS Lab\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html",

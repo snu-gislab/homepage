@@ -5,7 +5,7 @@ project:
     - images/
 
 website:
-  title: "SDS Lab"
+  title: ""
   description: "SDS Lab of the Department of Geography Education, Seoul National University"
   favicon: images/seoul.png
   site-url: "https://snu-gislab.github.io/homepage/"

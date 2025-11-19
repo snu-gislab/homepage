@@ -72,3 +72,12 @@
 
 
 /*news style end*/
+
+/*네비게이션바 시작*/
+.navbar-logo {
+  height: 40px;   /* 40~48px 정도로 조절해보자 */
+}
+.navbar-title {
+  display: none;
+}
+/*네비게이션바 끝*/
