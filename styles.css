@@ -16,16 +16,16 @@
 /* 배너 컨테이너 */
 .banner {
   position: relative;
-  max-width: 100%;
-  height: 500px;         /* 높이 조정 가능 */
+  width: 100%;
+  height: 1000px;  /* 화면 높이의 60% 정도 추천 */
   overflow: hidden;
 }
 
-/* 이미지 꽉 채우기 */
-.banner .slides img {
+.banner img {
   width: 100%;
   height: 100%;
-  object-fit: cover;     /* 자르더라도 꽉 채워 보여주기 */
+  object-fit: cover;   /* 자연스럽게 꽉 차게 */
+  object-position: center bottom;  /* 잘리는 경우 위쪽을 보이게 */
   display: block;
 }
 
