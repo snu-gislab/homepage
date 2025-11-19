@@ -1,25 +1,22 @@
 ---
-title: "SNU GIS Lab"
-subtitle: "Department of Geography Education, Seoul National University"
+title: ""
+title-block: false
+toc: false
+listing: # 페이지 가장 아래 자동으로 랜더링
+  contents: news/**
+  sort: "date desc"
+  type: default
+  max-items: 10
+  template: news-item.html
 ---
 
-::: {.hero-banner}
-# Welcome to SNU GIS Lab
+```{=html}
+<div class="banner">
+  <div class="slides">
+    <img src="./images/photo_251119.jpg" alt="단체샷20251119">
+  </div>
+  <div class="centered-text">Welcome To Spatial Data Science Lab</div>
+</div>
+```
 
-**Geographic Information Systems Laboratory**  
-Department of Geography Education  
-Seoul National University
-:::
-
-## About Our Lab
-
-Contents
-
-## Contact Information
-
-**Address**: 1 Gwanak-ro, Gwanak-gu, Seoul, Department of Geography Education, College of Education, Seoul National University   
-**Phone**: +82-2-880-2557
-
----
-
-*This website is powered by [Quarto](https://quarto.org) and hosted on GitHub Pages.*
+## Latest News
