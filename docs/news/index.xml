@@ -5,37 +5,39 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>SNU GIS Lab</title>
-<link>https://snu-gislab.github.io/news/</link>
-<atom:link href="https://snu-gislab.github.io/news/index.xml" rel="self" type="application/rss+xml"/>
-<description>GIS Lab of the Department of Geography Education, Seoul National University</description>
-<generator>quarto-1.4.550</generator>
+<title>SDS Lab</title>
+<link>https://snu-gislab.github.io/homepage/news/</link>
+<atom:link href="https://snu-gislab.github.io/homepage/news/index.xml" rel="self" type="application/rss+xml"/>
+<description>SDS Lab of the Department of Geography Education, Seoul National University</description>
+<generator>quarto-1.7.32</generator>
 <lastBuildDate>Fri, 27 Jun 2025 15:00:00 GMT</lastBuildDate>
 <item>
   <title>The 2025 Korean Geography Conference</title>
   <dc:creator>GIS Lab</dc:creator>
-  <link>https://snu-gislab.github.io/news/posts/2025-06-28-korean-geography-conference.html</link>
+  <link>https://snu-gislab.github.io/homepage/news/posts/2025-06-28-korean-geography-conference.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://snu-gislab.github.io/news/posts/images/Hyemin_KGC2.png" class="img-fluid"></p>
+
+<p><img src="https://snu-gislab.github.io/homepage/news/posts/images/Hyemin_KGC2.png" class="img-fluid"></p>
 <p>At the 2025 Korean Geography Conference held on June 27–28, our lab’s master’s degree candidate, Hyemin, presented her thesis titled “Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering.” Congratulations to her, and we wish her all the best after graduation!</p>
 
 
 
  ]]></description>
   <category>Conference</category>
-  <guid>https://snu-gislab.github.io/news/posts/2025-06-28-korean-geography-conference.html</guid>
+  <guid>https://snu-gislab.github.io/homepage/news/posts/2025-06-28-korean-geography-conference.html</guid>
   <pubDate>Fri, 27 Jun 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://snu-gislab.github.io/news/posts/images/Hyemin_KGC1.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://snu-gislab.github.io/homepage/news/posts/images/Hyemin_KGC1.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
   <title>GIS Lab Website Opened!</title>
   <dc:creator>GIS Lab</dc:creator>
-  <link>https://snu-gislab.github.io/news/posts/2025-06-27-website-open.html</link>
+  <link>https://snu-gislab.github.io/homepage/news/posts/2025-06-27-website-open.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -51,9 +53,9 @@
  ]]></description>
   <category>Website</category>
   <category>Announcements</category>
-  <guid>https://snu-gislab.github.io/news/posts/2025-06-27-website-open.html</guid>
+  <guid>https://snu-gislab.github.io/homepage/news/posts/2025-06-27-website-open.html</guid>
   <pubDate>Thu, 26 Jun 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://snu-gislab.github.io/news/posts/images/main_header.png" medium="image" type="image/png" height="21" width="144"/>
+  <media:content url="https://snu-gislab.github.io/homepage/news/posts/images/main_header.png" medium="image" type="image/png" height="21" width="144"/>
 </item>
 </channel>
 </rss>

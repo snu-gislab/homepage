@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://snu-gislab.github.io/news/index.html</loc>
-    <lastmod>2025-07-01T04:44:43.199Z</lastmod>
+    <loc>https://snu-gislab.github.io/homepage/publications.html</loc>
+    <lastmod>2025-11-19T07:13:34.716Z</lastmod>
   </url>
   <url>
-    <loc>https://snu-gislab.github.io/news/posts/2025-06-28-korean-geography-conference.html</loc>
-    <lastmod>2025-06-30T14:45:48.969Z</lastmod>
+    <loc>https://snu-gislab.github.io/homepage/news/posts/2025-06-28-korean-geography-conference.html</loc>
+    <lastmod>2025-11-19T07:13:34.709Z</lastmod>
   </url>
   <url>
-    <loc>https://snu-gislab.github.io/index.html</loc>
-    <lastmod>2025-06-29T08:28:10.694Z</lastmod>
+    <loc>https://snu-gislab.github.io/homepage/news/index.html</loc>
+    <lastmod>2025-11-19T07:13:34.708Z</lastmod>
   </url>
   <url>
-    <loc>https://snu-gislab.github.io/members.html</loc>
-    <lastmod>2025-06-30T14:56:23.986Z</lastmod>
-  </url>
-  <url>
-    <loc>https://snu-gislab.github.io/projects.html</loc>
-    <lastmod>2025-07-01T04:43:40.437Z</lastmod>
-  </url>
-  <url>
-    <loc>https://snu-gislab.github.io/publications.html</loc>
-    <lastmod>2025-06-30T14:27:54.785Z</lastmod>
-  </url>
-  <url>
-    <loc>https://snu-gislab.github.io/news/posts/2025-06-27-website-open.html</loc>
-    <lastmod>2025-06-30T14:58:54.031Z</lastmod>
+    <loc>https://snu-gislab.github.io/homepage/index.html</loc>
+    <lastmod>2025-11-19T15:07:53.635Z</lastmod>
   </url>
   <url>
     <loc>https://snu-gislab.github.io/homepage/members.html</loc>
-    <lastmod>2025-07-05T05:39:57.305Z</lastmod>
+    <lastmod>2025-11-19T07:13:34.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://snu-gislab.github.io/homepage/news/posts/2025-06-27-website-open.html</loc>
+    <lastmod>2025-11-19T07:13:34.709Z</lastmod>
+  </url>
+  <url>
+    <loc>https://snu-gislab.github.io/homepage/projects.html</loc>
+    <lastmod>2025-11-19T07:13:34.716Z</lastmod>
   </url>
 </urlset>

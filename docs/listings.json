@@ -5,5 +5,13 @@
       "/news/posts/2025-06-28-korean-geography-conference.html",
       "/news/posts/2025-06-27-website-open.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/index.html",
+      "/news/posts/2025-06-28-korean-geography-conference.html",
+      "/news/posts/2025-06-27-website-open.html"
+    ]
   }
 ]

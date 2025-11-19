@@ -10,3 +10,63 @@
 .member-profile ol li {
   margin-bottom: 0.3em;
 }
+
+/*banner style start*/
+
+/* 배너 컨테이너 */
+.banner {
+  position: relative;
+  max-width: 100%;
+  height: 500px;         /* 높이 조정 가능 */
+  overflow: hidden;
+}
+
+/* 이미지 꽉 채우기 */
+.banner .slides img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;     /* 자르더라도 꽉 채워 보여주기 */
+}
+
+/* 가운데 흰 글씨 */
+.banner .centered-text {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 4rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+  z-index: 10;
+}
+
+/*banner style end*/
+
+
+
+/*news style start*/
+
+.news-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.news-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.news-title a:hover {
+  text-decoration: underline;
+}
+
+.news-date {
+  white-space: nowrap;   /* 날짜가 줄바꿈 안 되도록 */
+  color: #777;
+  font-size: 0.9em;
+}
+
+/*news style end*/
