@@ -44,16 +44,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SDS Lab",
+    "title": "News",
     "section": "",
-    "text": "Welcome To Spatial Data Science Lab"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "SDS Lab",
-    "section": "News",
-    "text": "News"
+    "text": "Welcome To Spatial Data Science Lab\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n{{#listing}}\n\n\n&lt;a href=\"{{url}}\"&gt;{{title}}&lt;/a&gt;\n\n\n{{date}}\n\n\n{{/listing}}\nNo matching items"
   },
   {
     "objectID": "members.html",

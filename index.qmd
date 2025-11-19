@@ -7,7 +7,7 @@ listing:
   sort: "date desc"
   type: default
   max-items: 10
-  template: news-item.html
+  template: includes/news-item.html
 ---
 
 ::: {.column-screen}
@@ -21,4 +21,7 @@ listing:
 ```
 :::
 
-## News
+# News
+
+::: {.news-section}
+:::
