@@ -26,6 +26,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;     /* 자르더라도 꽉 채워 보여주기 */
+  display: block;
 }
 
 /* 가운데 흰 글씨 */

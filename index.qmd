@@ -2,7 +2,7 @@
 title: ""
 title-block: false
 toc: false
-listing: # 페이지 가장 아래 자동으로 랜더링
+listing:
   contents: news/**
   sort: "date desc"
   type: default
@@ -10,6 +10,7 @@ listing: # 페이지 가장 아래 자동으로 랜더링
   template: news-item.html
 ---
 
+::: {.column-screen}
 ```{=html}
 <div class="banner">
   <div class="slides">
@@ -18,5 +19,6 @@ listing: # 페이지 가장 아래 자동으로 랜더링
   <div class="centered-text">Welcome To Spatial Data Science Lab</div>
 </div>
 ```
+:::
 
 ## News
