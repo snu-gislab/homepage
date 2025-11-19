@@ -1,21 +1,21 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - images/
 
 website:
-  title: "SNU GIS Lab"
+  title: "SDS Lab"
   description: "GIS Lab of the Department of Geography Education, Seoul National University"
-  favicon: favicon.ico
+  favicon: images/sds_logo.png
   site-url: "https://snu-gislab.github.io/homepage/"
   
   navbar:
     background: "#ffffff"
-    foreground: "#0F0F70"
+    foreground: "#2A534D"
     title: ""
     search: true
     right:
-      - text: "Home"
-        file: index.qmd
       - text: "Members"
         file: members.qmd
       - text: "Projects"
@@ -26,7 +26,7 @@ website:
         file: news/index.qmd
 
   page-footer:
-    left: "© 2025 GIS Lab, Department of Geography Education, Seoul National University"
+    left: "© 2025 SDS Lab, Department of Geography Education, Seoul National University"
     right: 
       - icon: github
         href: https://github.com/snu-gislab
@@ -39,7 +39,7 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: false
+    toc: true
 
 
 
