@@ -19,4 +19,4 @@ listing: # 페이지 가장 아래 자동으로 랜더링
 </div>
 ```
 
-## Latest News
+## News
